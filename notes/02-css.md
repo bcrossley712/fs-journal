@@ -1,4 +1,7 @@
 # CSS
+selector{
+  property: value;
+}
 
 Flexbox(class "display: flex") is a way of changing element to share a row. Place on the parent element to move the children side by side to take only the room necessary.
 
