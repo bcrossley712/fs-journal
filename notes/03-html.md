@@ -18,4 +18,4 @@ when naming CSS variables use all lower case or kabob case(using hyphen)
 adding link to page = <a> tag 
 opening a new tab on click = target="_blank"
 
- 
+Look up fun lorem ipsum generators
