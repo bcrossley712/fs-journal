@@ -19,3 +19,5 @@ adding link to page = <a> tag
 opening a new tab on click = target="_blank"
 
 Look up fun lorem ipsum generators
+
+i frame or video tag to input video
