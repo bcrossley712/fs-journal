@@ -15,3 +15,6 @@ justify is left to right, align is up to down
 use developer tools to troubleshoot CSS styling
 
 move image from original location within the element = transform: translateY(3em) //this example specifically along the vertical axis
+
+Creating a media inquiry. Matching bootstrap's md,lg, etc...
+@media screen and (min/max width (x)px)
