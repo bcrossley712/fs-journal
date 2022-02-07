@@ -1,6 +1,8 @@
 # HTML
 Hyper text markup language
 
+Add emoji - Win + .
+
 Identifying HTML stucture
   Make a mock image in paint. Group like items. How many element children. Use paint to break down code into element children: header/body/div/p
 windows. for emoji
@@ -23,3 +25,10 @@ opening a new tab on click = target="_blank"
 Look up fun lorem ipsum generators
 
 i frame or video tag to input video
+
+Objects are with key and Value
+  let object = {
+    key: 'value'
+    key2: 'value2'
+  }
+  You can then call upon the specific values within the object  with their key.
