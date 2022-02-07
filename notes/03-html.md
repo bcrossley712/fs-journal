@@ -1,4 +1,6 @@
 # HTML
+Hyper text markup language
+
 Identifying HTML stucture
   Make a mock image in paint. Group like items. How many element children. Use paint to break down code into element children: header/body/div/p
 windows. for emoji
