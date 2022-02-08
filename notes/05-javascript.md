@@ -65,4 +65,15 @@ bool = bool ? false : true
 //speed run way
 bool = !bool
 
+//SECTION functions
+Declaration, Name, Parameters, and Return
 
+() Invocation of function
+
+function example(x, y){ }  // x and y would be the parameters
+example (a, b)  // a and b would be the argument supplied to the function
+
+
+//SECTION arrays
+
+let newArray = array.filter() // creates a new hidden array
