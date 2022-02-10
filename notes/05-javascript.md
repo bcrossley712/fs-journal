@@ -2,6 +2,12 @@
 
 Insert script into the bottom of the body: <script src="#JavaFileName.js"></script>
 
+STUB out sections for easy identification
+
+NOTE helpful info
+.queryselector grabs information from the DOM similarlly to .getelementbyid but instead of ID you use anything like a class or element.
+setInterval( #what to do, #how often)
+
 //SECTION Data Types
 
 //Primative (value type) / Non-primative (reference type)
@@ -77,3 +83,24 @@ example (a, b)  // a and b would be the argument supplied to the function
 //SECTION arrays
 
 let newArray = array.filter() // creates a new hidden array
+
+
+SECTION dictionary
+Object with mutiple values ie.
+  let animals = {
+    Brian: {
+      height: '5ft 7in',
+      weight: 190
+    },
+    Joe: {
+      height: '5ft 5in',
+      weight: 150
+    }
+  }
+
+  Easier to access information from a dictionary but more difficult to add or remove information then an array
+Drawing to page is not a for loop but looks like:
+    for(let key in #dictionary){
+      let #banana = #dicionary[key]
+      console.log(#dictionary)
+    }

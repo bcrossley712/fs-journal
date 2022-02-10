@@ -13,7 +13,7 @@ A subprogram designed to perform a soecific task
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+Single Responsibility,
 ```
 **4.** Given this array: 
 ```js

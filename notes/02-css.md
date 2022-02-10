@@ -18,3 +18,5 @@ move image from original location within the element = transform: translateY(3em
 
 Creating a media inquiry. Matching bootstrap's md,lg, etc...
 @media screen and (min/max width (x)px)
+
+SECTION useful styles
