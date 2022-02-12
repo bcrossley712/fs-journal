@@ -8,6 +8,25 @@ NOTE helpful info
 .queryselector grabs information from the DOM similarlly to .getelementbyid but instead of ID you use anything like a class or element.
 setInterval( #what to do, #how often)
 
+alert?? use a sweet alert 2 toast
+
+const Toast = Swal.mixin({
+  toast: true,
+  position: 'top-end',
+  showConfirmButton: false,
+  timer: 3000,
+  timerProgressBar: true,
+  didOpen: (toast) => {
+    toast.addEventListener('mouseenter', Swal.stopTimer)
+    toast.addEventListener('mouseleave', Swal.resumeTimer)
+  }
+})
+
+Toast.fire({
+  icon: 'success',
+  title: 'Signed in successfully'
+})
+
 //SECTION Data Types
 
 //Primative (value type) / Non-primative (reference type)
