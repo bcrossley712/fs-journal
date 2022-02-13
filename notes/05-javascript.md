@@ -10,6 +10,8 @@ setInterval( #what to do, #how often)
 
 alert?? use a sweet alert 2 toast
 
+Imbed script = src="//cdn.jsdelivr.net/npm/sweetalert2@11"
+
 const Toast = Swal.mixin({
   toast: true,
   position: 'top-end',
