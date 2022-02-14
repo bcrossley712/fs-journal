@@ -106,7 +106,7 @@ example (a, b)  // a and b would be the argument supplied to the function
 let newArray = array.filter() // creates a new hidden array
 
 
-SECTION dictionary
+//SECTION dictionary
 Object with mutiple values ie.
   let animals = {
     Brian: {
@@ -125,3 +125,28 @@ Drawing to page is not a for loop but looks like:
       let #banana = #dicionary[key]
       console.log(#dictionary)
     }
+
+  //SECTION Class basics
+    Classes are a blueprint of an object
+    Singular and Capital first letter
+    rather then let or const
+      class House {
+        bedrooms
+        bathrooms
+        sqFootage
+      }
+    Method is a function in a class or object, constructor(){}
+      class House {
+        constructor(bedrooms, bathrooms, sqFootage){
+          this.bedrooms = bedrooms
+          this.bathrooms = bathrooms
+          this.sqFootage = sqFootage
+        }
+      }
+      let myHouse = new House(4, 3, 2500)
+        myHouse = {
+          bedrooms: 4
+          bathrooms: 3
+          sqFootage: 2500
+        }
+//SECTION constructors
