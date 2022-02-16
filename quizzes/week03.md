@@ -21,7 +21,7 @@ let property = 'name'
 **3.** What is Encapsulation?
 <!-- enter you answer in the space below -->
 ```
-
+Local retention and protection and hiding of state process. Or the object stores its state privately and only the objects methods have access to the state.
 ```
 **4.** What does the S stand for in the `SOLID` principles?
 <!-- enter you answer in the space below -->

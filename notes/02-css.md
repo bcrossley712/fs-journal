@@ -1,4 +1,6 @@
 # CSS
+//NOTE to use SASS =  npm -i on project in command line; npm run sass in terminal in VSC
+
 selector{
   property: value;
 }
