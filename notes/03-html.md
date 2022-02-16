@@ -32,3 +32,12 @@ Objects are with key and Value
     key2: 'value2'
   }
   You can then call upon the specific values within the object  with their key.
+
+SECTION Forms
+  form.target = what caused the submission
+  let form = form.target
+  form.#ID.value = what was in the input field at the #ID specified
+
+SECTION Modals
+bs5-modal
+Place form in the body of a modal
