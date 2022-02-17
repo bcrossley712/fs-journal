@@ -16,7 +16,7 @@ let property = 'name'
 ```
 <!-- enter you answer in the space below -->
 ```
-
+staff.name??
 ```
 **3.** What is Encapsulation?
 <!-- enter you answer in the space below -->
@@ -36,7 +36,7 @@ A class is setting up the blueprint of what a class describes where the instance
 **6.** What is a `Proxy` object?
 <!-- enter you answer in the space below -->
 ```
-
+A proxy is something that you can add to basic object operations to enable you to provide them with customizable functionality.  I don't understand them at all yet.
 ```
 
 **7.** What is the purpose of the `MVC` pattern?
