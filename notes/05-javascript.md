@@ -4,6 +4,8 @@ Insert script into the bottom of the body: <script src="#JavaFileName.js"></scri
 
 STUB out sections for easy identification
 
+
+
 NOTE helpful info
 .queryselector grabs information from the DOM similarlly to .getelementbyid but instead of ID you use anything like a class or element.
 setInterval( #what to do, #how often)
@@ -104,6 +106,9 @@ example (a, b)  // a and b would be the argument supplied to the function
 //SECTION arrays
 
 let newArray = array.filter() // creates a new hidden array
+take something from array and return a new array = filter
+remove item from array = splice
+blow everything out of the array = ...
 
 
 //SECTION dictionary

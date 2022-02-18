@@ -1,6 +1,8 @@
 # HTML
 Hyper text markup language
 
+NOTE Any selectable icon you put on a page, you must add a title tag for ACCESSABILITY
+
 Add emoji - Win + .
 
 Identifying HTML stucture

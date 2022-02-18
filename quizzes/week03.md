@@ -3,7 +3,7 @@
 **1.** What are the Pillars of Object Oriented Programming (`OOP`)?
 <!-- enter you answer in the space below -->
 ```
-
+I'm thinking Encapsulation and message passing are the pillars.  Programmers were fighting with timeing dependencies and resource conflicts caused by trying to share the same memory for lots of functions so they employed OOP.
 ```
 **2.** How would you access the `name` of the below object using the `property` variable?
 ```js
