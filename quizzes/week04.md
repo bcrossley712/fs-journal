@@ -8,7 +8,7 @@
 **2.** What is an event listener?
 <!-- enter you answer in the space below -->
 ```
-
+It's a process put in place to pay attention to something within it and decide what to do when that something changes.
 ```
 **3.** What does the `O` represent in the `SOLID` principles?
 <!-- enter you answer in the space below -->
@@ -23,7 +23,7 @@
 **5.** What is a `promise`? How do you capture an error from a `promise`?
 <!-- enter you answer in the space below -->
 ```
-
+A promise is the information given to us to let us know that our request is being fulfilled before the request gets fulfilled.
 ```
 **6.** Name three processes used to make requests over `HTTP`?
 <!-- enter you answer in the space below -->
@@ -33,12 +33,12 @@
 **7.** What does the `API` acronym stand for?
 <!-- enter you answer in the space below -->
 ```
-
+Application program interface
 ```
 **8.** In the `MVC` design pattern, who is responsible for making calls to `APIs`?
 <!-- enter you answer in the space below -->
 ```
-
+The Service.
 ```
 **9.** What is the purpose of encapsulation in programming?
 <!-- enter you answer in the space below -->
