@@ -23,7 +23,7 @@ It's a process put in place to pay attention to something within it and decide w
 **5.** What is a `promise`? How do you capture an error from a `promise`?
 <!-- enter you answer in the space below -->
 ```
-A promise is the information given to us to let us know that our request is being fulfilled before the request gets fulfilled.
+A promise is the information given to us to let us know that our request is being fulfilled before the request gets fulfilled. A catch is used to capture a rejected promise.
 ```
 **6.** Name three processes used to make requests over `HTTP`?
 <!-- enter you answer in the space below -->
@@ -53,5 +53,5 @@ The Service.
 **11.** What is a 500 error?
 <!-- enter you answer in the space below -->
 ```
-
+Internal server error
 ```
