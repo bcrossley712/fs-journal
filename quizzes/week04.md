@@ -3,7 +3,7 @@
 **1.** What is the difference between `asynchronous` code and `synchronous` code?
 <!-- enter you answer in the space below -->
 ```
-
+Asychronous code awaits a promise and halts the code at that position until getting a response. Syncronous code just continues on at its own speed from top to bottom.
 ```
 **2.** What is an event listener?
 <!-- enter you answer in the space below -->
@@ -48,7 +48,7 @@ The Service.
 **10.** What is `HTTP` response code for a successful request?
 <!-- enter you answer in the space below -->
 ```
-
+200
 ```
 **11.** What is a 500 error?
 <!-- enter you answer in the space below -->
