@@ -1,5 +1,8 @@
 # MVC
 
+READ THE API DOCS!!!!!
+
+
 //SECTION Asynchronous Code
 API - Application program interface
 Asynchronous - tell the code to wait for something before proceeding to the next step.
@@ -32,3 +35,4 @@ console.log(response.data)
   Read - get
   Update - put
   Delete - delete
+
