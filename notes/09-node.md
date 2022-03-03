@@ -18,3 +18,5 @@ AUTH_DOMAIN=dev-bcrossley712.us.auth0.com
 AUTH_AUDIENCE=https://brian-dev.com
 AUTH_CLIENT_ID=omph0kyWMR2mKaoZphUvm7lVBfiDkRPf
 
+SECTION relationships
+  .populate = adding a virtual type from a model to a find function
