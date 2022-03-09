@@ -30,3 +30,7 @@ Router - The Vue Router is used to evaluate the address in the url and determine
 V Directives - The special directives for Vue, all begin with a v and tell Vue to use some special behind the scene processes. Examples: v-if, v-for, v-show
 
 Reactive - When the data on the page updates automatically based on the state of the application, the user is not required to refresh the page to get the needed data.
+
+SECTION Props
+  How we pass data from a parent to a child.
+  Must pass information from the parent to the child componant in order for the componant to know what to do with it.
