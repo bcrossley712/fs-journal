@@ -12,6 +12,10 @@ SECTION Starting with Vue
     Directive = v-on OR @
     Binding = {{}}
       ref = This is something that will have something bound to it
+
+SECTION Data binding
+  Two-way - v-model=""
+  One-way - 
     
 
 SECTION Glossary
@@ -34,3 +38,6 @@ Reactive - When the data on the page updates automatically based on the state of
 SECTION Props
   How we pass data from a parent to a child.
   Must pass information from the parent to the child componant in order for the componant to know what to do with it.
+
+SECTION router
+  <router-link :to="{name: '#componantName', params:'{id:#propsId }'">
