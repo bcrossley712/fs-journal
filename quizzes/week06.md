@@ -23,7 +23,7 @@ template, script, style
 **5.** What does the `L` represent in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+Some guys name.  We haven't expanded on the SOLID principles other than Single resposibility. However I have noticed that despite not using the names, we adhere to the principles.
 ```
 **6.** Which component in Vue does the vue-router use to mount pages onto?
 <!-- enter you answer in the space below -->
