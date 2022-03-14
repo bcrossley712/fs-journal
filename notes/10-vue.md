@@ -41,3 +41,8 @@ SECTION Props
 
 SECTION router
   <router-link :to="{name: '#componantName', params:'{id:#propsId }'">
+
+  Want to put object of posts into Appstate
+  posts/:id/like will "like" the post?
+  Not required to edit a post
+  Hint for formatting time: new Date()
