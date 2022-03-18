@@ -20,3 +20,7 @@ AUTH_CLIENT_ID=omph0kyWMR2mKaoZphUvm7lVBfiDkRPf
 
 SECTION relationships
   .populate = adding a virtual type from a model to a find function
+
+SECTION Postman
+  API tests
+    
