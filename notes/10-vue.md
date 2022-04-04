@@ -46,3 +46,11 @@ SECTION router
   posts/:id/like will "like" the post?
   Not required to edit a post
   Hint for formatting time: new Date()
+
+SECTION  sockets
+  flip sockets to true in env.js
+  import socketService
+    .emit
+    .joinRoom
+  backend socket
+    socketProvider
