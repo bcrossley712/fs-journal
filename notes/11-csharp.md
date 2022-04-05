@@ -44,3 +44,5 @@ everything we use must have a data type!
   Models
     public, internal, protected, private
   Importing is now called "using"
+
+SECTION dictionaries
