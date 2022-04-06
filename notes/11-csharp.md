@@ -46,3 +46,9 @@ everything we use must have a data type!
   Importing is now called "using"
 
 SECTION dictionaries
+
+
+NOTE potential errors with webapi
+Note if your project is throwing a Swashbuckler error run this command to add a source to your files: dotnet nuget add source https://api.nuget.org/v3/index.json.
+Also if your project spins up but gives a security warning, run this line in your terminal: dotnet dev-certs https --trust.
+Both of these solutions will also fix the problem for future projects as well
