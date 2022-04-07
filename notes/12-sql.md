@@ -26,3 +26,6 @@ PUT
   WHERE id = ^var
 DELETE
   DELETE FROM ^collection WHERE id = ^var LIMIT 1
+
+
+  
