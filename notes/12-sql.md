@@ -1,5 +1,8 @@
 # MVC
-
+SECTION SETUP in appsettings.Development.json and appsettings.json
+  "CONNECTION_STRING": "server=SG-brian-sql-6001-mysql-master.servers.mongodirector.com;port=3306;database=BrianDB;user id=Brian;password=Password123!",
+  "AUTH0_DOMAIN": "dev-bcrossley712.us.auth0.com",
+  "AUTH0_AUDIENCE": "https://brian-dev.com"
 
 After setup:
 
@@ -27,5 +30,4 @@ PUT
 DELETE
   DELETE FROM ^collection WHERE id = ^var LIMIT 1
 
-
-  
+SECTION One to many
