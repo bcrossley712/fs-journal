@@ -30,4 +30,10 @@ PUT
 DELETE
   DELETE FROM ^collection WHERE id = ^var LIMIT 1
 
-SECTION One to many
+SECTION Interfaces
+  Kind of like a blueprint
+  Rule we set for the application
+
+SECTION Inheritance
+  Essentially have two or more different models for one class
+  
