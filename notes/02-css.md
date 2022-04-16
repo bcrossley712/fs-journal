@@ -21,4 +21,14 @@ move image from original location within the element = transform: translateY(3em
 Creating a media inquiry. Matching bootstrap's md,lg, etc...
 @media screen and (min/max width (x)px)
 
-SECTION useful styles
+SECTION Masonry
+No d-flex in the masonries parent container!!!! (including rows)
+
+  .masonry{
+    columns: 6 200px;
+    column-gap: 1rem;
+    div {
+      display: inline-block;
+      width: 100%;
+  }
+  }
